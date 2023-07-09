@@ -13,19 +13,19 @@
 ![Тест_1](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_1.png)
 
 
-![Тест_2](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_2.png)
+![Тест_2](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_10.png)
 
 
 ![Тест_3](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_3.png)
 
 
-![Тест_4](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_4.png)
+![Тест_4](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_11.png)
 
 
 ![Тест_5](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_5.png)
 
 
-![Тест_6](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_6.png)
+![Тест_6](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_13.png)
 
 
 ![Тест_7](https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A2%D0%B5%D1%81%D1%82_7.png)
@@ -216,8 +216,8 @@
             <td align="center">Windows 10 Pro Сборка ОС 19045.3086</td>
             <td align="left"><p>1. Открыта папка "web-camera"</p> <p>2. Запущена программа "WebCamera"</p> <p>3. Нажата кнока "СДЕЛАТЬ СНИМОК"</p> <p>4.В нижней части программы "отображается" снимок</p></td>
             <td align="left"><p>Проверить на "соответствие" метки времени кадра с дизайном "указанным" в технической документации</p></td>
-            <td align="left">Кадр соответсвует дизайну</td>
-            <td align="left">Кадр не соответсвует дизайну</td>
+            <td align="left">Временная метка кадр соответсвует дизайну</td>
+            <td align="left">Временная метка кадр не соответсвует дизайну</td>
              <td align="center"><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Screenshot_9.png">Скрин</a>    
              </td>
         </tr>
