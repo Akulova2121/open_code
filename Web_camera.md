@@ -57,8 +57,8 @@
             <td align="center">1. Кликнуть два раза на файл "WebCamera.exe"</td>
             <td align="center">Видеопоток отображается без задержек</td>
             <td align="center">Видеопоток отображается с задержками</td>
-             <td align="center"><p><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/20230709_132803.mp4">Видео_1</a></p>
-                 <p><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/20230709_133256.mp4">Видео_2</a></p>
+             <td align="center"><p><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/20230709_132803.mp4">Web_camera</a></p>
+                 <p><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/20230709_133256.mp4">hlsplayer</a></p>
              </td>
             
                 </tr>
