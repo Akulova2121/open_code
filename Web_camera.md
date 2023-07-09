@@ -89,7 +89,7 @@
             <td align="left"><p>1. Навести курсор на кнопку "СДЕЛАТЬ СНИМОК"</p> <p>2. Кликнуть на кнопку "СДЕЛАТЬ СНИМОК"</p></td>
             <td align="left">Кнопка отображается без изменений</td>
             <td align="left">Образуется чёрный контур вокруг кнопки</td>
-             <td align="center"><a href="">Web_camera</a>    
+             <td align="center"><a href="https://github.com/Akulova2121/open_code/blob/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/Screenshot_5.png">Скрин</a>    
              </td>
         </tr>
      </tbody>
